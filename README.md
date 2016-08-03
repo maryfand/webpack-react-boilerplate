@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 这是H1标签
 
 ## h2
@@ -84,3 +85,6 @@ marked.setOptions({
 packages setting view open  save autosave
 
 ### github 存图片
+=======
+# webpack-react-boilerplate
+>>>>>>> c97bfefa159395999bd8fc7fccfff9953dc62d8d
